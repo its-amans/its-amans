@@ -12,6 +12,9 @@ Web Developer and Designer
   
 <img src="https://github-profile-trophy.vercel.app/?username=honey8899" alt="honey8899">
 
+[![An image of @honey8899's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/honey8899)](https://holopin.io/@honey8899)
+
+
 ### Skills
 
 
