@@ -9,6 +9,8 @@ Web Developer and Designer
 * 🧠  I'm learning DSA
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I'am greedy for learning things
+  
+<img src="https://github-profile-trophy.vercel.app/?username=honey8899" alt="honey8899">
 
 ### Skills
 
