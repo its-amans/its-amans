@@ -12,7 +12,7 @@ Web Developer and Designer
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I'am greedy for learning things
   
-<img src="https://github-profile-trophy.vercel.app/?username=honey8899" alt="honey8899">
+<img src="https://github-profile-trophy.vercel.app/?username=ITS-AMANS" alt="ITS-AMANS">
 
 [![An image of @honey8899's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/honey8899)](https://holopin.io/@honey8899)
 
