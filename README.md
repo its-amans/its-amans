@@ -11,6 +11,7 @@ Web Developer and Designer
 * 🧠  I'm learning DSA
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I'am greedy for learning things
+* 🧠  I'm currently working on my new project lingual room.
   
 <img src="https://github-profile-trophy.vercel.app/?username=ITS-AMANS" alt="ITS-AMANS">
 
