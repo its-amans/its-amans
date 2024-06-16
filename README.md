@@ -1,3 +1,4 @@
+![Visitor Count](https://profile-counter.glitch.me/{its-amans}/count.svg)
 <img align="center" width="1200" alt="rolling" src="https://i.ibb.co/BsRr2wB/ce694f560636dffcf42ecf40d4f2f962-1.gif">
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aman srivastava
