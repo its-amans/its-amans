@@ -13,7 +13,7 @@ Full Stack Enthusiast
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I'am greedy for learning things
   
-<img src="https://github-profile-trophy.vercel.app/?username=ITS-AMANS" alt="ITS-AMANS">
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=ITS-AMANS" alt="ITS-AMANS"> -->
 
 [![An image of @honey8899's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/honey8899)](https://holopin.io/@honey8899)
 
@@ -32,6 +32,6 @@ Full Stack Enthusiast
 
 ### Badges
 
-<a href="http://www.github.com/its-amans"><img src="https://github-readme-stats.vercel.app/api?username=its-amans&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chitresh-code's GitHub stats" /></a>
+<!-- <a href="http://www.github.com/its-amans"><img src="https://github-readme-stats.vercel.app/api?username=its-amans&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="its-amans's GitHub stats" /></a> -->
 
 <a href="http://www.github.com/its-amans"><img src="https://github-readme-streak-stats.herokuapp.com/?user=its-amans&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
